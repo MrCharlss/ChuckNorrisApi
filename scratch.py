@@ -13,4 +13,5 @@ for cat in data:
     print( str(i) + " " + respons["value"])
     i = i + 1
 
-
+    if (i >= 17):
+        print("Son todas las quotes disponibles...")
