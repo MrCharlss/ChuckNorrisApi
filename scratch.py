@@ -14,4 +14,4 @@ for cat in data:
     i = i + 1
 
     if (i >= 17):
-        print("Son todas las quotes disponibles...")
+        print("Son todas las quotes disponibles....")
